@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+BlueColor{
+  color:blueviolet;
+}
+.image{
+  padding-right:900px;
+}
